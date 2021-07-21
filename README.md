@@ -1,3 +1,3 @@
-# kaggle
+# Competitions-and-Hackathons
 
-This repository contains files related to kaggle
+All comps & hackathon files
