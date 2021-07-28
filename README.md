@@ -1,3 +1,3 @@
 # Competitions-and-Hackathons
 
-All comps & hackathon files
+All comps & hackathon files 
